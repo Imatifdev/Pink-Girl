@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "334028705784",
+    "project_id": "womentech-76ddf",
+    "storage_bucket": "womentech-76ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334028705784:android:6c2c54810c6c65e910500d",
+        "android_client_info": {
+          "package_name": "com.example.quizapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334028705784-j7md452omovreii4341kpdpkt6a788lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRo1FkPz0UNKjxmSAVTXR58XHOZZh3AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334028705784-j7md452omovreii4341kpdpkt6a788lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334028705784:android:042124ae15722f0f10500d",
+        "android_client_info": {
+          "package_name": "com.example.womentech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334028705784-j7md452omovreii4341kpdpkt6a788lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRo1FkPz0UNKjxmSAVTXR58XHOZZh3AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334028705784-j7md452omovreii4341kpdpkt6a788lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
